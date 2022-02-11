@@ -4,6 +4,10 @@ Questa risorsa descrive come realizzare un braccio robotico comandato con Ard
 # Descrizione del progetto
 Il sistema è composto da cinque servo motori che pilotano mano, polso, gomito spalla e base, azionati con opportuni comandi provenienti dal computer.
 
+![Braccio_robotico_con_Arduino_01](https://user-images.githubusercontent.com/99251089/153591371-2e8814cf-c9b7-46c2-8c08-735a60089324.jpg)
+
+
+
 I tasti per comandare il braccio sono: w,a,s,d,t,f,g,h,z,x;
 w= muove la spalla indietro;
 s= muove la spalla avanti;
