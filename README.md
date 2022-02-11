@@ -20,6 +20,8 @@ h= gira il polso a destra;
 z= apre la mano;
 x= chiude la mano;
 
+![Screenshot_20220211-132918_Chrome](https://user-images.githubusercontent.com/99251089/153591815-2275a8e8-2457-4d4a-8588-6048576a53f4.jpg)
+
 # Software aggiuntivo
 
 
