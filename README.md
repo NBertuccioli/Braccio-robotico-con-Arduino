@@ -10,9 +10,18 @@ Il sistema è composto da cinque servo motori che pilotano mano, polso, gomito s
 
 I tasti per comandare il braccio sono: w,a,s,d,t,f,g,h,z,x;
 
-Legenda:
-
-![Screenshot_20220211-132918_Chrome](https://user-images.githubusercontent.com/99251089/153591815-2275a8e8-2457-4d4a-8588-6048576a53f4.jpg)
+| Comando   | Azione               |
+| --------- | -------------------- |
+| `w`       | Spalla indietro      |
+| `s`       | Spalla avanti        |
+| `a`       | Base a destra        |
+| `d`       | Base a sinistra      |
+| `t`       | Gomito su            |
+| `g`       | Gomto giù            |
+| `f`       | Polso verso sinistra |
+| `h`       | Polso verso destra   |
+| `z`       | Apri mano            |
+| `x`       | Chiudi mano          |
 
 # Software aggiuntivo
 
